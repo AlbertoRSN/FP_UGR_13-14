@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "II_RLE", "II_RLE.vcxproj", "{DE582B9A-49D0-4A39-9D01-739A9CF834B1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE582B9A-49D0-4A39-9D01-739A9CF834B1}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DE582B9A-49D0-4A39-9D01-739A9CF834B1}.Debug|Win32.Build.0 = Debug|Win32
+		{DE582B9A-49D0-4A39-9D01-739A9CF834B1}.Release|Win32.ActiveCfg = Release|Win32
+		{DE582B9A-49D0-4A39-9D01-739A9CF834B1}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

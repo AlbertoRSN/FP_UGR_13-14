@@ -1,0 +1,22 @@
+﻿Build started 10/11/2011 19:28:34.
+     1>Project "C:\Users\RODRIGO\Documents\RODRIGO MEMORIA PORTATIL\UGR\FUNDAMENTOS PROGRAMACION\PRACTICAS\SOLUCION PROFESOR SESIONES\sesion4\II_ProgresionGeometrica\II_ProgresionGeometrica.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\II_ProgresionGeometrica.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W4 /WX- /Od /Oy- /Gm- /EHsc /RTCc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt II_ProgresionGeometrica.cpp
+         II_ProgresionGeometrica.cpp
+     1>c:\users\rodrigo\documents\rodrigo memoria portatil\ugr\fundamentos programacion\practicas\solucion profesor sesiones\sesion4\ii_progresiongeometrica\ii_progresiongeometrica.cpp(40): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\rodrigo\documents\rodrigo memoria portatil\ugr\fundamentos programacion\practicas\solucion profesor sesiones\sesion4\ii_progresiongeometrica\ii_progresiongeometrica.cpp(45): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\RODRIGO\Documents\RODRIGO MEMORIA PORTATIL\UGR\FUNDAMENTOS PROGRAMACION\PRACTICAS\SOLUCION PROFESOR SESIONES\sesion4\II_ProgresionGeometrica\Debug\/II_ProgresionGeometrica.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\II_ProgresionGeometrica.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\RODRIGO\Documents\RODRIGO MEMORIA PORTATIL\UGR\FUNDAMENTOS PROGRAMACION\PRACTICAS\SOLUCION PROFESOR SESIONES\sesion4\II_ProgresionGeometrica\Debug\/II_ProgresionGeometrica.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\RODRIGO\Documents\RODRIGO MEMORIA PORTATIL\UGR\FUNDAMENTOS PROGRAMACION\PRACTICAS\SOLUCION PROFESOR SESIONES\sesion4\II_ProgresionGeometrica\Debug\II_ProgresionGeometrica.lib" Debug\II_ProgresionGeometrica.obj
+         II_ProgresionGeometrica.vcxproj -> C:\Users\RODRIGO\Documents\RODRIGO MEMORIA PORTATIL\UGR\FUNDAMENTOS PROGRAMACION\PRACTICAS\SOLUCION PROFESOR SESIONES\sesion4\II_ProgresionGeometrica\Debug\II_ProgresionGeometrica.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\RODRIGO\Documents\RODRIGO MEMORIA PORTATIL\UGR\FUNDAMENTOS PROGRAMACION\PRACTICAS\SOLUCION PROFESOR SESIONES\sesion4\II_ProgresionGeometrica\Debug\/II_ProgresionGeometrica.exe;#1" /manifest Debug\II_ProgresionGeometrica.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Debug\II_ProgresionGeometrica.unsuccessfulbuild".
+         Touching "Debug\II_ProgresionGeometrica.lastbuildstate".
+     1>Done Building Project "C:\Users\RODRIGO\Documents\RODRIGO MEMORIA PORTATIL\UGR\FUNDAMENTOS PROGRAMACION\PRACTICAS\SOLUCION PROFESOR SESIONES\sesion4\II_ProgresionGeometrica\II_ProgresionGeometrica.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.05

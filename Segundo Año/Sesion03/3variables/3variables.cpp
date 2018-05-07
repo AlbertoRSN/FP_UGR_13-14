@@ -1,0 +1,21 @@
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+    int x=10, y=20, z=30;
+    int aux;
+
+    cout<<"Valores iniciales de x,y,z (consecutivamente): "<<x<<" "<<y<<" "<<z<<endl;
+
+    aux=y;
+    y=x;
+    x=z;
+    z=aux;
+
+
+    cout<<"\nValores de x,y,z intercambiados:\n x: "<<x<<" \n y: "<<y<<"\n z: "<<z;
+
+}
+

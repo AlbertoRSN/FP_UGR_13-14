@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "II_InteresRevierte_post_test", "II_InteresRevierte_post_test.vcxproj", "{247ACA9E-DBCA-49EA-8FC7-50D4507BE653}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{247ACA9E-DBCA-49EA-8FC7-50D4507BE653}.Debug|Win32.ActiveCfg = Debug|Win32
+		{247ACA9E-DBCA-49EA-8FC7-50D4507BE653}.Debug|Win32.Build.0 = Debug|Win32
+		{247ACA9E-DBCA-49EA-8FC7-50D4507BE653}.Release|Win32.ActiveCfg = Release|Win32
+		{247ACA9E-DBCA-49EA-8FC7-50D4507BE653}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

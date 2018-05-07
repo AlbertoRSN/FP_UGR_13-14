@@ -1,0 +1,30 @@
+
+#include <iostream>
+
+using namespace std;
+
+int main(){
+     double capital;
+     double interes;
+     double total;
+     int anio=1, numero_anios;
+
+    cout << "Numero de anios: ";
+    cin >> numero_anios;
+    cout << "Capital depositado: ";
+    cin >> capital;
+    cout << "Introduzca el interes: ";
+    cin >> interes;
+
+
+        total=capital;
+        
+        while(anio<=numero_anios){
+            total=
+         
+         
+        }
+    
+    
+
+}
