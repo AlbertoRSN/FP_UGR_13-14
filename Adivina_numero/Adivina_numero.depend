@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1383072981 source:c:\users\acer\desktop\clase\fp\practicas\adivina_numero\adivina_numero.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+

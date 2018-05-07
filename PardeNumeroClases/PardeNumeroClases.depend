@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1385988154 source:c:\users\acer\desktop\clase\fp\practicas\pardenumeroclases\main.cpp
+	<iostream>
+	<cstdlib>
+	<string>
+	<cctype>
+

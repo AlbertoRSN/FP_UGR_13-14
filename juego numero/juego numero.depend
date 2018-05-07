@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1384084798 source:c:\users\acer\desktop\clase\fp\practicas\juego numero\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+
